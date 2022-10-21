@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }   
 
-body{
-    background-color: aqua;
-}
+
 
 
 
@@ -49,45 +47,4 @@ body{
     
     border: 2px solid rgb(3, 120, 255);
     background-color: rgb(109, 201, 255);
-}
-
-.imagem-salvar{
-    width: 200px;
-    height: 200px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.card-title{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-
-
-.btn-load{
-    background-color: white;
-    border: 2px solid white;
-    width: 130px;
-    margin-left: 50px;
-    font-weight: bold;
-    
-}
-
-.btn-load:hover{
-    border-radius: 20px;
-    border: 2px solid blue;
-}
-
-.btn-load:active{
-    border: 2px solid rgb(3, 120, 255);
-    background-color: rgb(109, 201, 255);
-}
-
-.rodape{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 100px;
 }
